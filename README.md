@@ -5,4 +5,4 @@ Advised by: Eric Balkanski
 Group Member: Ruozhu (Savannah) Wang, Luocen (Cora) Wang, Enlu Huang, Meng Li
 
 
-Presectation: https://www.youtube.com/watch?v=WFihmbI0lsA
+Presentation: https://www.youtube.com/watch?v=WFihmbI0lsA
